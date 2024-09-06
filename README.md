@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @PanakjRoy<br>I am currently working on Ruby On Rails<
+👋 Hi, I’m @PanakjRoy<br>I am currently working on Ruby On Rails
 
 
 ## 🌐 Socials:
